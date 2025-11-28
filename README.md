@@ -7,3 +7,7 @@ System Requirements:
 5. Minimum 4GB RAM
 6. Minimum 2 CPU cores
 7. 20GB free disk space
+
+
+If you need further question, email me
+kurotohoparho@gmail.com
